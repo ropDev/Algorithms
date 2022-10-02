@@ -1,6 +1,6 @@
 /**
  * Heap Sort
- * author: Ronald Perez (ropDev)
+ * author: Ronald Perez (ropdev)
  * date: 17-11-2019
  */
 
